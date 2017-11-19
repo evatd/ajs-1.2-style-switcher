@@ -1,13 +1,14 @@
 body {
-    background-color: #222;
-    color: #eee;
+  background-color: #222;
+  color: #eee;
 }
 
-h1, h2 {
-    color: #f1f1f1;
+h1,
+h2 {
+  color: #f1f1f1;
 }
 
 #menu li a {
-    background-color:#444;
-    color: #ddd;
+  background-color: #444;
+  color: #ddd;
 }
