@@ -1,6 +1,10 @@
 # ajs-1.2-style-switcher
 **Advanced JavaScript | Lecture 1 Task 2**
 
+Solution to the following task:
+
+### Task
+
 Note the following:
 - There are 2 style sheets linked to the page, one of them has an id attribute
 - There are 3 buttons in the menu, each of which has a unique id and also a data-style attribute • There are 3 stylesheets in the exercise folder which match the data-style attribute values
